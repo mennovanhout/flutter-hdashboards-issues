@@ -9,7 +9,7 @@ assignees: mennovanhout
 
 PLEASE STOP USING GITHUB
 
-ISSUES HAVE BEEN MOVED TO: https://hdashboards.app/account/features
+ISSUES HAVE BEEN MOVED TO: https://hdashboards.app/account/issues
 
 PLEASE STOP USING GITHUB
 
